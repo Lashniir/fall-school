@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=scores
+comment1.target=void\ printScores(java.lang.String)
+comment2.params=scores
+comment2.target=double\ avgScores(java.lang.String)
+comment3.params=score
+comment3.target=java.lang.String\ calcLetterGrade(double)
+numComments=4

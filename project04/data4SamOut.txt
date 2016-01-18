@@ -1,0 +1,21 @@
+Project 4 by Alexander Foiles, Due 10/01/2015 by 11pm
+
+3 integers inputed are:     4    8    4
+The sorted integers are:    4    4    8
+
+3 integers inputed are:     9    3    7
+The sorted integers are:    3    7    9
+
+3 integers inputed are:    11    5    3
+The sorted integers are:    3    5   11
+
+3 integers inputed are:     4   18   16
+The sorted integers are:    4   16   18
+
+3 integers inputed are:    19   13    7
+The sorted integers are:    7   13   19
+
+3 integers inputed are:     1    5    8
+The sorted integers are:    1    5    8
+
+End of program

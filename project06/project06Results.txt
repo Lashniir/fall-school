@@ -1,0 +1,22 @@
+Project 06 by Alexander Foiles, Due 10/30/2015 by 12pm
+Palindrome      Input String         New String          
+  yes           STAR RATS            STAR RATS           
+  no            STAT                 TATS                
+  yes           LEVEL                LEVEL               
+  yes           MALAYALAM            MALAYALAM           
+  no            Solos                soloS               
+  no            kaya                 ayak                
+  yes           mama anna amam       mama anna amam      
+  no            Radar                radaR               
+  yes           Regal lageR          Regal lageR         
+  yes           Straw wartS          Straw wartS         
+  no            RSTUVWXYZXWVUTSR     RSTUVWXZYXWVUTSR    
+  yes           DeifieD              DeifieD             
+  yes           leon noel            leon noel           
+  yes           ABBA                 ABBA                
+  no            mama anna mama       amam anna amam      
+  yes           noel leon            noel leon           
+  no            Racecar              racecaR             
+  yes           STATS                STATS               
+  no            galleonnoelag        galeonnoellag       
+end of program 19 strings were processed

@@ -1,0 +1,21 @@
+Project 4 by Alexander Foiles, Due 10/01/2015 by 11pm
+
+3 integers inputed are:     218      6   4327
+The sorted integers are:      6    218   4327
+
+3 integers inputed are:       6      9      9
+The sorted integers are:      6      9      9
+
+3 integers inputed are:     218    342    256
+The sorted integers are:    218    256    342
+
+3 integers inputed are:    3217      9   1234
+The sorted integers are:      9   1234   3217
+
+3 integers inputed are:      12      9      6
+The sorted integers are:      6      9     12
+
+3 integers inputed are:      21     34     18
+The sorted integers are:     18     21     34
+
+End of program

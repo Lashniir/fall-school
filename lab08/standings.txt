@@ -1,0 +1,5 @@
+Toronto    93 69
+New York   87 75
+Kansas City95 67
+Texas      88 74
+Houston    86 76

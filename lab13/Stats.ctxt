@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=data\ cnt
+comment1.target=double\ average(int[],\ int)
+comment2.params=data\ cnt
+comment2.target=int\ max(int[],\ int)
+comment3.params=data\ cnt
+comment3.target=int\ min(int[],\ int)
+comment4.params=data\ mean\ cnt
+comment4.target=int\ countAbove(int[],\ double,\ int)
+comment5.params=data\ avg\ cnt
+comment5.target=double\ deviation(int[],\ double,\ int)
+numComments=6

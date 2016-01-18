@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=outF\ a
+comment0.target=void\ printArrayFAll(java.io.PrintWriter,\ int[])
+numComments=1

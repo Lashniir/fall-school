@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=inF\ a\ max
+comment0.target=int\ readArray(java.util.Scanner,\ int[],\ int)
+numComments=1
